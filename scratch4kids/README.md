@@ -11,6 +11,10 @@
 
 ## Learning Videos on YouTube
 
+| # | Title with Link |
+| --- | --- |
+| 000 | [Opening and Introduction]() |
+
 ---
 
 Welcome to hear from you, please drop me your questions to my [Email](mailto:xiaoqizhao@outlook.com) here, or leave comments under specific videos. Good Luck!
