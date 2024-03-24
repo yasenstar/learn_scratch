@@ -53,6 +53,8 @@ Indigo.ca: https://www.indigo.ca/en-ca/scratch-for-kids-for-dummies/978111901487
 
 #### 01-02-07 Paint Sky Gradient on the Stage
 
+#### Reference: online flappybird
+
 ### 01-03 Bring Game to Life with Code
 
 #### 01-03-01 Add Flapping Wings Animation
