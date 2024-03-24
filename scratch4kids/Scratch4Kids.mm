@@ -97,7 +97,7 @@
   </body>
 </html>
 </richcontent>
-<node TEXT="Part 0: Introduction" POSITION="bottom_or_right" ID="ID_1041190190" CREATED="1711296950818" MODIFIED="1711296960185">
+<node TEXT="Part 0: Introduction" FOLDED="true" POSITION="bottom_or_right" ID="ID_1041190190" CREATED="1711296950818" MODIFIED="1711296960185">
 <node TEXT="Get FreePlane" ID="ID_1772939036" CREATED="1711302707136" MODIFIED="1711302740542" LINK="https://sourceforge.net/projects/freeplane/"/>
 <node TEXT="About Scratch" FOLDED="true" ID="ID_385307101" CREATED="1711299989277" MODIFIED="1711300088524" LINK="https://scratch.mit.edu/">
 <node TEXT="1. Give you powerful software for free" ID="ID_649462176" CREATED="1711300007231" MODIFIED="1711300015392"/>
