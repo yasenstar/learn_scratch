@@ -8,3 +8,9 @@
 ## Book Structure in Level 1
 
 ![Scratch4Kids-L1](img/Scratch4Kids-L1.png)
+
+## Learning Videos on YouTube
+
+---
+
+Welcome to hear from you, please drop me your questions to my [Email](mailto:xiaoqizhao@outlook.com) here, or leave comments under specific videos. Good Luck!
