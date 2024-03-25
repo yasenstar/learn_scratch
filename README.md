@@ -14,3 +14,7 @@
 - Scratch by Examples
 - Coding Projects in Scratch
 - Scratch by Example
+
+---
+
+Welcome to hear from you, please drop me your questions to my [Email](mailto:xiaoqizhao@outlook.com) here, or leave comments under specific videos. Good Luck!

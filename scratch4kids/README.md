@@ -14,7 +14,3 @@
 | --- | --- |
 | 000 | [Opening and Introduction](https://youtu.be/8JzzpcnmtuA) |
 | 001 | [1-1 Access Scratch on Your Computer](https://youtu.be/fZGqwpy-pRA) |
-
----
-
-Welcome to hear from you, please drop me your questions to my [Email](mailto:xiaoqizhao@outlook.com) here, or leave comments under specific videos. Good Luck!
