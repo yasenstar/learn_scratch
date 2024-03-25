@@ -14,6 +14,7 @@
 | # | Title with Link |
 | --- | --- |
 | 000 | [Opening and Introduction](https://youtu.be/8JzzpcnmtuA) |
+| 001 | [1-1 Access Scratch on Your Computer](https://youtu.be/fZGqwpy-pRA) |
 
 ---
 
