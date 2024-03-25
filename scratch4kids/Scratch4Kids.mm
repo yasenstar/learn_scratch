@@ -3,7 +3,7 @@
 <node TEXT="Scratch for Kids" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1090958577" CREATED="1409300609620" MODIFIED="1711299172838">
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
 <font BOLD="true"/>
-<hook NAME="MapStyle" background="#f9f9f8">
+<hook NAME="MapStyle" background="#f9f9f8" zoom="1.3">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_note_icons="true" fit_to_viewport="false" associatedTemplateLocation="template:/light_nord_template.mm"/>
 
 <map_styles>
@@ -115,7 +115,7 @@
 <node TEXT="01-01-01 Create Online Account" ID="ID_340025615" CREATED="1711301643526" MODIFIED="1711301651583"/>
 <node TEXT="01-01-02 Use Scratch Offline" ID="ID_405126313" CREATED="1711301757966" MODIFIED="1711301783698" LINK="https://scratch.mit.edu/download"/>
 </node>
-<node TEXT="01-02 Create a New Project" ID="ID_850116619" CREATED="1711301710389" MODIFIED="1711301718629">
+<node TEXT="01-02 Create a New Project" FOLDED="true" ID="ID_850116619" CREATED="1711301710389" MODIFIED="1711301718629">
 <node TEXT="01-02-01 Create Online Project" ID="ID_1479892256" CREATED="1711301798287" MODIFIED="1711301805800"/>
 <node TEXT="01-02-02 Create Offline Project" ID="ID_1742418307" CREATED="1711301811063" MODIFIED="1711301816952"/>
 <node TEXT="01-02-03 Delete the Cat" ID="ID_644331352" CREATED="1711301819766" MODIFIED="1711301826103"/>
@@ -136,7 +136,7 @@
 <node TEXT="01-04-01 Detect Collision with the Ground Sprite" ID="ID_640786455" CREATED="1711302030751" MODIFIED="1711302042536"/>
 <node TEXT="01-04-02 Copy Blocks from Ground to Pipe" ID="ID_1291457841" CREATED="1711302047632" MODIFIED="1711302059154"/>
 </node>
-<node TEXT="01-05 Adjust Pipe Size and Location" FOLDED="true" ID="ID_536694801" CREATED="1711301736583" MODIFIED="1711320584556">
+<node TEXT="01-05 Adjust Pipe Size and Location" ID="ID_536694801" CREATED="1711301736583" MODIFIED="1711320584556">
 <node TEXT="01-05-01 Randomize Vertical Position" ID="ID_567748952" CREATED="1711302071416" MODIFIED="1711302082660"/>
 <node TEXT="01-05-02 Increase Sprite Size on the Stage" ID="ID_1687924912" CREATED="1711302088526" MODIFIED="1711302104411"/>
 <node TEXT="01-05-03 Decrease Sprite Size on the Stage" ID="ID_845749591" CREATED="1711302108769" MODIFIED="1711320584555" VSHIFT_QUANTITY="-0.75 pt"/>
