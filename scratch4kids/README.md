@@ -14,3 +14,8 @@
 | --- | --- |
 | 000 | [Opening and Introduction](https://youtu.be/8JzzpcnmtuA) |
 | 001 | [1-1 Access Scratch on Your Computer](https://youtu.be/fZGqwpy-pRA) |
+| 002 | [1-2 Create New Project FlappingBat](https://youtu.be/T6DTkGt0YHY) |
+| 003 | [1-3 Bring Game to Life with Code](https://youtu.be/eDhn_e13eDs) |
+| 004 | [1-4 Add Collision to Your Game](https://youtu.be/C5Kp1ghEwsQ) |
+| 005 | [1-5 Adjust Pipe Size and Location and Chapter Wrap Up](https://youtu.be/iYYav22GXxo) |
+
