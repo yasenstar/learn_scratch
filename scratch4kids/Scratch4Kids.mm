@@ -4,7 +4,7 @@
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
 <font BOLD="true"/>
 <hook NAME="MapStyle" background="#f9f9f8">
-    <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_note_icons="true" fit_to_viewport="false" associatedTemplateLocation="template:/light_nord_template.mm"/>
+    <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_note_icons="true" associatedTemplateLocation="template:/light_nord_template.mm" fit_to_viewport="false"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -95,8 +95,7 @@
       Indigo.ca: https://www.indigo.ca/en-ca/scratch-for-kids-for-dummies/9781119014874.html
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="Part 0: Introduction" FOLDED="true" POSITION="bottom_or_right" ID="ID_1041190190" CREATED="1711296950818" MODIFIED="1711296960185">
 <node TEXT="Get FreePlane" ID="ID_1772939036" CREATED="1711302707136" MODIFIED="1711302740542" LINK="https://sourceforge.net/projects/freeplane/"/>
 <node TEXT="About Scratch" FOLDED="true" ID="ID_385307101" CREATED="1711299989277" MODIFIED="1711300088524" LINK="https://scratch.mit.edu/">
@@ -167,7 +166,7 @@
 <node TEXT="Precisely position speech bubbles" ID="ID_629380433" CREATED="1711412758517" MODIFIED="1711412767143"/>
 </node>
 </node>
-<node TEXT="Ch03: Design Scratch Animals" ID="ID_1851907459" CREATED="1711297429233" MODIFIED="1711297436827">
+<node TEXT="Ch03: Design Scratch Animals" FOLDED="true" ID="ID_1851907459" CREATED="1711297429233" MODIFIED="1711297436827">
 <node TEXT="03-01: Create a Great Turtle" FOLDED="true" ID="ID_1201576014" CREATED="1711473008159" MODIFIED="1711473019431">
 <node TEXT="03-01-01 Draw a turtle shell outline" ID="ID_298134371" CREATED="1711473019433" MODIFIED="1711473033253"/>
 <node TEXT="03-01-02 Fill in your shell" ID="ID_1268899238" CREATED="1711473040732" MODIFIED="1711473047215"/>
@@ -175,13 +174,13 @@
 <node TEXT="03-01-04 Add body details" ID="ID_793412616" CREATED="1711473064378" MODIFIED="1711473095062"/>
 <node TEXT="03-01-05 Add shell details" ID="ID_1477211906" CREATED="1711473081629" MODIFIED="1711473087908"/>
 </node>
-<node TEXT="03-02: Add Code to Animate the Turtle" FOLDED="true" ID="ID_1687176799" CREATED="1711473100547" MODIFIED="1711473112500">
+<node TEXT="03-02: Add Code to Animate the Turtle" ID="ID_1687176799" CREATED="1711473100547" MODIFIED="1711473112500">
 <node TEXT="03-02-01 Make the turtle crawl" ID="ID_256737133" CREATED="1711473114474" MODIFIED="1711473121485"/>
 <node TEXT="03-02-02 Slow down the turtle" ID="ID_1239097710" CREATED="1711473124532" MODIFIED="1711473132535"/>
 <node TEXT="03-02-03 Speed up the turtle" ID="ID_533998504" CREATED="1711473134795" MODIFIED="1711473140126"/>
 <node TEXT="03-02-04 Animate the turtle legs" ID="ID_348270541" CREATED="1711473143366" MODIFIED="1711473150639"/>
 </node>
-<node TEXT="03-03: I Want a Wild Hippogriff!" ID="ID_1293097066" CREATED="1711473163315" MODIFIED="1711473294777"><richcontent TYPE="NOTE">
+<node TEXT="03-03: I Want a Wild Hippogriff!" FOLDED="true" ID="ID_1293097066" CREATED="1711473163315" MODIFIED="1711473294777"><richcontent TYPE="NOTE">
 <html>
   <head>
     
@@ -191,8 +190,7 @@
       鹰头马身有翼兽
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="03-03-01 Look in the Sprite Library" ID="ID_195155695" CREATED="1711473181376" MODIFIED="1711473189965"/>
 <node TEXT="03-03-02 Groom your fantasy animal" ID="ID_762605551" CREATED="1711473193799" MODIFIED="1711473201871"/>
 <node TEXT="03-03-03 Add a new tail" ID="ID_1151113855" CREATED="1711473207125" MODIFIED="1711473213141"/>
@@ -201,16 +199,16 @@
 </node>
 <node TEXT="03-04: Add Code for the Hippogriff&apos;s Whinny" ID="ID_1281222969" CREATED="1711473261717" MODIFIED="1711473274022"/>
 </node>
-<node TEXT="Ch04: Build Vector Robots" FOLDED="true" ID="ID_452942753" CREATED="1711298913524" MODIFIED="1711298921917">
+<node TEXT="Ch04: Build Vector Robots" ID="ID_452942753" CREATED="1711298913524" MODIFIED="1711298921917">
 <node TEXT="04-01 Diving into Vector Design" ID="ID_288024717" CREATED="1711474543347" MODIFIED="1711474565628"/>
-<node TEXT="04-02 Sculpting Robot Shapes" POSITION="bottom_or_right" ID="ID_783320746" CREATED="1711474554178" MODIFIED="1711474616243">
+<node TEXT="04-02 Sculpting Robot Shapes" FOLDED="true" POSITION="bottom_or_right" ID="ID_783320746" CREATED="1711474554178" MODIFIED="1711474616243">
 <node TEXT="04-02-01 Use reshape on straight edges" ID="ID_1262824185" CREATED="1711474616246" MODIFIED="1711474637874"/>
 <node TEXT="04-02-02 Add and remove points" ID="ID_298257661" CREATED="1711474649960" MODIFIED="1711474656122"/>
 <node TEXT="04-02-03 Use reshape on curves" ID="ID_887122101" CREATED="1711474663138" MODIFIED="1711474672020"/>
 <node TEXT="04-02-04 Add curves to rectangles" ID="ID_1339308817" CREATED="1711474677164" MODIFIED="1711474684010"/>
 <node TEXT="04-02-05 Combine vector shapes" ID="ID_863237443" CREATED="1711474711891" MODIFIED="1711474718306"/>
 </node>
-<node TEXT="04-03 Start Your Robot Design" POSITION="bottom_or_right" ID="ID_354220771" CREATED="1711474723041" MODIFIED="1711474732043">
+<node TEXT="04-03 Start Your Robot Design" FOLDED="true" POSITION="bottom_or_right" ID="ID_354220771" CREATED="1711474723041" MODIFIED="1711474732043">
 <node TEXT="04-03-01 Move parts to different layers" ID="ID_338859324" CREATED="1711474732046" MODIFIED="1711474769491"/>
 <node TEXT="04-03-02 Group shapes together" ID="ID_1734609398" CREATED="1711474772972" MODIFIED="1711474778900"/>
 <node TEXT="04-03-03 Duplicate groups of body parts" ID="ID_1953090091" CREATED="1711474786146" MODIFIED="1711474799994"/>
@@ -234,8 +232,7 @@
       数字拼贴
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="05-01 Create a New Project" POSITION="bottom_or_right" ID="ID_1119977343" CREATED="1711474895885" MODIFIED="1711474943118">
 <node TEXT="05-01-01 Choose sprints" ID="ID_467403425" CREATED="1711474943122" MODIFIED="1711474950527"/>
 </node>
