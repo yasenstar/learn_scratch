@@ -3,7 +3,7 @@
 <node TEXT="Scratch for Kids" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1090958577" CREATED="1409300609620" MODIFIED="1711299172838">
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
 <font BOLD="true"/>
-<hook NAME="MapStyle" background="#f9f9f8">
+<hook NAME="MapStyle" background="#f9f9f8" zoom="0.592">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_note_icons="true" associatedTemplateLocation="template:/light_nord_template.mm" fit_to_viewport="false"/>
 
 <map_styles>
@@ -96,7 +96,7 @@
     </p>
   </body>
 </html></richcontent>
-<node TEXT="Part 0: Introduction" FOLDED="true" POSITION="bottom_or_right" ID="ID_1041190190" CREATED="1711296950818" MODIFIED="1711296960185">
+<node TEXT="Part 0: Introduction" POSITION="bottom_or_right" ID="ID_1041190190" CREATED="1711296950818" MODIFIED="1711296960185">
 <node TEXT="Get FreePlane" ID="ID_1772939036" CREATED="1711302707136" MODIFIED="1711302740542" LINK="https://sourceforge.net/projects/freeplane/"/>
 <node TEXT="About Scratch" FOLDED="true" ID="ID_385307101" CREATED="1711299989277" MODIFIED="1711300088524" LINK="https://scratch.mit.edu/">
 <node TEXT="1. Give you powerful software for free" ID="ID_649462176" CREATED="1711300007231" MODIFIED="1711300015392"/>
@@ -166,7 +166,7 @@
 <node TEXT="Precisely position speech bubbles" ID="ID_629380433" CREATED="1711412758517" MODIFIED="1711412767143"/>
 </node>
 </node>
-<node TEXT="Ch03: Design Scratch Animals" FOLDED="true" ID="ID_1851907459" CREATED="1711297429233" MODIFIED="1711297436827">
+<node TEXT="Ch03: Design Scratch Animals" ID="ID_1851907459" CREATED="1711297429233" MODIFIED="1711297436827">
 <node TEXT="03-01: Create a Great Turtle" FOLDED="true" ID="ID_1201576014" CREATED="1711473008159" MODIFIED="1711473019431">
 <node TEXT="03-01-01 Draw a turtle shell outline" ID="ID_298134371" CREATED="1711473019433" MODIFIED="1711473033253"/>
 <node TEXT="03-01-02 Fill in your shell" ID="ID_1268899238" CREATED="1711473040732" MODIFIED="1711473047215"/>
@@ -222,7 +222,7 @@
 </node>
 <node TEXT="04-05 Finishing Your Project" POSITION="bottom_or_right" ID="ID_272784968" CREATED="1711474887748" MODIFIED="1711474895883"/>
 </node>
-<node TEXT="Ch05: Digital Collages" FOLDED="true" ID="ID_175698884" CREATED="1711298922107" MODIFIED="1711475101112"><richcontent TYPE="NOTE">
+<node TEXT="Ch05: Digital Collages" ID="ID_175698884" CREATED="1711298922107" MODIFIED="1711475101112"><richcontent TYPE="NOTE">
 <html>
   <head>
     
